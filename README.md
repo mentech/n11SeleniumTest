@@ -1,2 +1,2 @@
 # n11SeleniumTest
-a simple test for n11.com
+a simple automation test for n11.com made with selenium
